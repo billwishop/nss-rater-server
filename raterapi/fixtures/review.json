@@ -1,0 +1,11 @@
+[
+    {
+        "model": "raterapi.review",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "review":"Great game",
+            "gamer":1
+        }
+    }
+]

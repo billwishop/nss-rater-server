@@ -1,0 +1,15 @@
+[
+    {
+        "model": "raterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Welcome To",
+            "number_of_players": 4,
+            "gamer": 1,
+            "description": "Great game",
+            "year": 2020,
+            "play_time": 4,
+            "age_recommendation": 10
+        }
+    }
+]
